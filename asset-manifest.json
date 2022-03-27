@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fa86757.css",
+    "main.js": "/static/js/main.a387957a.js",
+    "static/js/787.9b54e0d0.chunk.js": "/static/js/787.9b54e0d0.chunk.js",
+    "static/media/ove-food-food-quotes.jpg": "/static/media/ove-food-food-quotes.2382331af67571d6fe9d.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.6fa86757.css.map": "/static/css/main.6fa86757.css.map",
+    "main.a387957a.js.map": "/static/js/main.a387957a.js.map",
+    "787.9b54e0d0.chunk.js.map": "/static/js/787.9b54e0d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa86757.css",
+    "static/js/main.a387957a.js"
+  ]
+}
